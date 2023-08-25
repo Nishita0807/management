@@ -1,4 +1,4 @@
-import { Contact } from 'D:/contact-management-app/src/interfaces'; // Adjust the path based on your project structure
+import { Contact } from '../../interfaces'; // Adjust the path based on your project structure
 
 const initialState: Contact[] = [];
 
